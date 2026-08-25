@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.4.2-alpha",
-  "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/v0.4.2-alpha/app-debug.apk",
-  "changelog": "🪐 ORBITA TV v0.4.2-alpha — Quantum Cinema Edition\n\n✨ Novedades y Mejoras:\n• 🌌 Login Fotorrealista 1:1 con Mockup: Fondo cósmico en 4K y Planeta 3D con atmósfera luminosa nativa.\n• 🎮 Navegación D-Pad Infalible: Selección inmediata entre Servidores 1, 2, 3 con brillo dorado y escala 1.12x.\n• 🚀 Botón 'INICIAR SESIÓN' con borde blanco brillante de 3.5dp y foco neón turquesa hiper-visible.\n• 👥 Selector de Perfiles 'Quantum Gateway': Indicadores de foco de 3.5dp para perfiles, 'Añadir Perfil' y 'Cambiar Servidor'.\n• ⚡ Rendimiento a 60 FPS sin retrasos ni desbordamientos de pantalla.",
+  "versionCode": 8,
+  "versionName": "0.4.3-alpha",
+  "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/v0.4.3-alpha/app-debug.apk",
+  "changelog": "🪐 ORBITA TV v0.4.3-alpha — Quantum Cinema Edition (Full D-Pad Focus & Photorealistic Assets)\n\n✨ Novedades y Mejoras:\n• 🌌 Gráficos Fotorrealistas 1:1: Fondo galáctico 4K y Planeta 3D con atmósfera luminosa integrados en Splash, Login y Perfiles.\n• 🎮 Navegación D-Pad Infalible: Selección inmediata y ultra visible con bordes blancos de 3.5dp y escala 1.10x en todos los carruseles (Películas, Series, TV en Vivo, Continuar Viendo).\n• 🚀 Botón 'INICIAR SESIÓN' con halo neón y selección por mando fluida.\n• 👥 Selector de Perfiles 'Quantum Gateway': Navegación D-Pad directa para perfiles, 'Añadir Perfil', 'Administrar' y 'Cambiar Servidor'.\n• 🎛️ Barra de Navegación 'Full-Bleed Cinema Dock': Píldoras con borde de 3dp, búsqueda y menú de cuenta de alta respuesta.\n• ⚡ Rendimiento optimizado a 60 FPS sin saltos ni desbordamientos de pantalla.",
   "forceUpdate": false
 }
