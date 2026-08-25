@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "0.3-alpha",
-  "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/Releases/orbita-0.3-alpha.apk",
-  "changelog": "• Rediseño total de Películas y Series en 3 columnas\n• Nueva sección de TV en Vivo táctil y ordenada para móviles\n• Buscador instantáneo integrado\n• Motor OTA ultra-resiliente",
+  "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/v0.3-alpha/app-release.apk",
+  "changelog": "🪐 ORBITA TV — Rediseño Total Full-Bleed Cinema & Vision Edition\n\n✨ Novedades y Mejoras:\n• Nuevo Splash Screen 'Nebula Horizon' con anillo 3D y barra de cristal líquido.\n• Home Screen 'Full-Bleed Cinema' con backdrop inmersivo, badges 4K/HDR/Atmos y carrusel de pósters elevados.\n• Nuevo Reproductor 'Cinema Liquid HUD' con controles flotantes de cristal, barra de progreso neón y selector de audio/subtítulos.\n• Pantalla de Login 'Orbita Quantum Login' en 2 columnas widescreen (solución definitiva al recorte en Android TV).\n• Selector de perfiles 'Quantum Gateway' con avatares 3D y diseño de cristal esmerilado.\n• Catálogos de Películas, Series y TV en Vivo optimizados para control remoto D-Pad.\n• Rendimiento ultra fluido a 60 FPS y cero consumo innecesario de memoria.",
   "forceUpdate": false
 }
