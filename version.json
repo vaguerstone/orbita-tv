@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "0.0.2",
-  "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/Releases/orbita-v0.0.1.apk",
-  "changelog": "• Nueva interfaz vertical para celulares\n• Modo Turbo Zap instantáneo\n• Agenda semanal de estrenos\n• Icono oficial adaptable HD",
+  "versionCode": 3,
+  "versionName": "0.0.3",
+  "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/Releases/orbita-v0.0.3.apk",
+  "changelog": "• Menu ridiseñado para la version Movil",
   "forceUpdate": false
 }
