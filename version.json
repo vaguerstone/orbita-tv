@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3-alpha",
+  "versionCode": 2,
+  "versionName": "0.2-alpha",
   "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/Releases/orbita-0.3-alpha.apk",
   "changelog": "• Nuevo Home móvil táctil idéntico a Netflix/Apple TV\n• Fila 'Live Channels Now' con historias circulares neón\n• Hero vertical cinematográfico con botones Play y My List\n• Administrador de perfiles fluido con edición y cambio de servidor\n• Actualizaciones automáticas OTA integradas",
   "forceUpdate": false
