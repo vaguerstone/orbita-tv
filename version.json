@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
-  "versionName": "0.0.1-alpha",
+  "versionName": "0.1-alpha",
   "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/Releases/orbita-0.1-alpha.apk",
-  "changelog": "• Menu ridiseñado para la version Movil",
+  "changelog": "• Menú y Home rediseñado para celulares estilo Netflix\n• Nuevo Administrador de Perfiles y edición fluida\n• Modo Turbo Zap instantáneo\n• Agenda semanal de estrenos",
   "forceUpdate": false
 }
