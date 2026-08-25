@@ -1,5 +1,5 @@
 {
-  "versionCode": 8,
+  "versionCode": 7,
   "versionName": "0.4.2-alpha",
   "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/v0.4.2-alpha/app-debug.apk",
   "changelog": "🪐 ORBITA TV v0.4.2-alpha — Quantum Cinema Edition (Ultra Foco D-Pad)\n\n✨ Novedades y Mejoras:\n• 🌌 Login Fotorrealista 1:1 con Mockup: Fondo cósmico en 4K y Planeta 3D con atmósfera luminosa nativa.\n• 🎮 Navegación D-Pad Infalible: Selección inmediata entre Servidores 1, 2, 3 con brillo dorado y escala 1.12x.\n• 🚀 Botón 'INICIAR SESIÓN' con borde blanco brillante de 3.5dp y foco neón turquesa hiper-visible.\n• 👥 Selector de Perfiles 'Quantum Gateway': Indicadores de foco de 3.5dp para perfiles, 'Añadir Perfil' y 'Cambiar Servidor'.\n• ⚡ Rendimiento a 60 FPS sin retrasos ni desbordamientos de pantalla.",
