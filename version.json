@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "0.0.3",
-  "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/Releases/orbita-v0.0.3.apk",
+  "versionCode": 2,
+  "versionName": "0.0.1-alpha",
+  "apkUrl": "https://github.com/vaguerstone/orbita-tv/releases/download/Releases/orbita-0.1-alpha.apk",
   "changelog": "• Menu ridiseñado para la version Movil",
   "forceUpdate": false
 }
